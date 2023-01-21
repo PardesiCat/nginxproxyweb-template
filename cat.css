@@ -1,4 +1,14 @@
 .middle {
     text-decoration: solid;
     text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 19%;
+}
+
+.text1 {
+    color: rgba(30, 160, 4, 0.774);
+}
+
+body {
+    background-color: black;
 }
